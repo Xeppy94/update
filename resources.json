@@ -1,0 +1,22 @@
+{
+  "rablasok": [
+    {
+      "name": "Fleeca Bank Rablás v2",
+      "link": "https://github.com/valami/qb-fleeca",
+      "img": "https://docs.fivem.net/docs/game-references/blips/blip_108.png",
+      "desc": "Optimalizált, ox_target alapú bankrablás script."
+    }
+  ],
+  "munkak": [],
+  "mappolasok": [],
+  "kocsik": [
+    {
+      "name": "Busted PD Pack (10 kocsival)",
+      "link": "https://cfx.re/valami-pd-cars",
+      "img": "https://docs.fivem.net/docs/game-references/blips/blip_56.png",
+      "desc": "Egyedi fényhidas, optimalizált rendőrautó csomag."
+    }
+  ],
+  "pedek": [],
+  "egyebb": []
+}
